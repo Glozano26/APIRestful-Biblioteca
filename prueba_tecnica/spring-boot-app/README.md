@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Este proyecto es una API RESTful desarrollada con Spring Boot que gestiona una biblioteca de libros y autores. La aplicación permite realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) sobre las entidades `Autor` y `Libro`. Los datos se almacenan en una base de datos relacional y se gestionan mediante JPA (Java Persistence API).
+Este proyecto es una API RESTful desarrollada con Spring Boot que gestiona una biblioteca de libros y autores. La aplicación permite realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) sobre las entidades `Autor` y `Libro`. Los datos se almacenan en una base de datos relacional y se gestionan mediante JPA (Java Persistence API)
 
 ## Estructura del Proyecto
 
